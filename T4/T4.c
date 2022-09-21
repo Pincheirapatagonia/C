@@ -10,7 +10,7 @@ struct Sensor{
     int t_max;
     int diametro;
 }
-struct
+struct Sensor sensor1;
 void main (){
 
 
