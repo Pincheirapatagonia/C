@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-/*  Parte 1*/
+/*----------------  Parte 1--------------*/
 float x[10] = {0.97, 0.4, 0.3, 0.84, 1.2, 0.7, 0.6, 0.9, 0.1, 0.25};
 float *p;
 
@@ -35,5 +35,7 @@ for (int i = 0; i < length; i++) {
     }      
 
 /* Source: https://www.javatpoint.com/c-program-to-print-the-elements-of-an-array*/
+
+
 
 }
